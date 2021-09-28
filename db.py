@@ -1,6 +1,6 @@
 import sqlite3
 
-#Connect to sqlite and create sales database object
+#Connect to sqlite and create sales db file
 #connection = sqlite3.connect('sales.db')
 
 # Cursor object to invoke methods for SQL
